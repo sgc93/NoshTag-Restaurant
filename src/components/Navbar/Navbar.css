@@ -15,7 +15,7 @@
 }
 
 .app__navbar-logo img {
-	width: 150px;
+	width: 100px;
 }
 
 .app__navbar-links {
@@ -106,7 +106,8 @@
 
 @media screen and (max-width: 2000px) {
 	.app__navbar-logo img {
-		width: 210px;
+		width: 120px;
+		margin: 1rem;
 	}
 }
 
@@ -128,7 +129,7 @@
 	}
 
 	.app__navbar-logo img {
-		width: 110px;
+		width: 90px;
 	}
 }
 
