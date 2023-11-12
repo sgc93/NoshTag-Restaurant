@@ -1,4 +1,4 @@
-import G from "../assets/G.png";
+import N from "../assets/N.png";
 import award01 from "../assets/award01.png";
 import award02 from "../assets/award02.png";
 import award03 from "../assets/award03.png";
@@ -25,7 +25,7 @@ import welcome from "../assets/welcome.png";
 const img = {
 	bg: bg,
 	chef: chef,
-	G: G,
+	N: N,
 	gallery01: gallery01,
 	gallery02: gallery02,
 	gallery03: gallery03,
