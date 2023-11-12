@@ -17,6 +17,7 @@ import menu from "../assets/menu.png";
 import noshtag from "../assets/noshtag.png";
 import overlaybg from "../assets/overlaybg.png";
 import quote from "../assets/quote.png";
+import shuka from "../assets/shuka.svg";
 import sign from "../assets/sign.png";
 import spoon from "../assets/spoon.svg";
 import welcome from "../assets/welcome.png";
@@ -34,6 +35,7 @@ const img = {
 	menu: menu,
 	overlaybg: overlaybg,
 	spoon: spoon,
+	shuka: shuka,
 	welcome: welcome,
 	findus: findus,
 	laurels: laurels,
