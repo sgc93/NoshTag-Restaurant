@@ -14,7 +14,7 @@ const Navbar = () => {
 	return (
 		<nav className="app__navbar">
 			<div className={isToggleToX ? "hide" : "app__navbar-logo"}>
-				<img src={img.gericht} alt="app logo" />
+				<img src={img.noshtag} alt="app logo" />
 			</div>
 			<List nameClass="app__navbar-links" />
 			<div className={isToggleToX ? "hide" : "app__navbar-login"}>
