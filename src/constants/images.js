@@ -10,11 +10,11 @@ import gallery01 from "../assets/gallery01.png";
 import gallery02 from "../assets/gallery02.png";
 import gallery03 from "../assets/gallery03.png";
 import gallery04 from "../assets/gallery04.png";
-import gericht from "../assets/gericht.png";
 import knife from "../assets/knife.png";
 import laurels from "../assets/laurels.png";
 import logo from "../assets/logo.png";
 import menu from "../assets/menu.png";
+import noshtag from "../assets/noshtag.png";
 import overlaybg from "../assets/overlaybg.png";
 import quote from "../assets/quote.png";
 import sign from "../assets/sign.png";
@@ -43,7 +43,7 @@ const img = {
 	award05: award05,
 	sign: sign,
 	quote: quote,
-	gericht: gericht,
+	noshtag: noshtag,
 };
 
 export default img;
