@@ -45,8 +45,6 @@
 	width: 100%;
 }
 
-@media screen and (max-width: 2000px) {
-}
 @media screen and (max-width: 1150px) {
 	.app__menu-menuList {
 		flex-direction: column;
@@ -64,7 +62,8 @@
 	}
 }
 @media screen and (max-width: 650px) {
-	.app__menu-menuList_items {
+	.app__menu-menuList_items,
+	.app__menu-menuList_img {
 		width: 80%;
 	}
 	.app__menu-heading {
