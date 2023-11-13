@@ -3,7 +3,10 @@ import SubHeading from "../../components/SubHeading/SubHeading";
 import img from "../../constants/images";
 
 const FindUs = () => (
-	<div className="app__wrapper app__bg flex__center section__padding">
+	<div
+		className="app__wrapper app__bg flex__center section__padding"
+		id="Contact"
+	>
 		<div className="app__wrapper_info">
 			<SubHeading title="Contact" />
 			<h1 className="headtext__cormorant" style={{ marginBottom: "3rem" }}>

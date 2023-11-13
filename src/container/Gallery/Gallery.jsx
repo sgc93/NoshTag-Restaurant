@@ -21,7 +21,7 @@ const Gallery = () => {
 		currentState.scrollLeft += amount;
 	}
 	return (
-		<div className="app__gallery flex__center">
+		<div className="app__gallery flex__center" id="Gallery">
 			<div className="app__gallery-content">
 				<SubHeading title="Instagram" />
 				<h1 className="headtext__cormorant">Photo Gallery</h1>
