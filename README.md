@@ -1,10 +1,18 @@
-#NoshTag Restaurant
-
+# NoshTag Restaurant
 
 The key to fine `NOSH`.
 
+## ------ NOSHTAG -------
+a contemporary restourant menu and landing page - built with react.
 
------- NOSHTAG -------
+## Demo
+
+## Screenshots
+![homepage](https://github.com/sgc93/NoshTag-Restaurant/blob/main/src/assets/screenshot/homepage.png)  <br /><br /><br /><br /><br />
+![about](https://github.com/sgc93/NoshTag-Restaurant/blob/main/src/assets/screenshot/about.png) <br /><br /><br /><br /><br />
+![menu](https://github.com/sgc93/NoshTag-Restaurant/blob/main/src/assets/screenshot/menu.png) <br /><br /><br /><br /><br />
+![gallery](https://github.com/sgc93/NoshTag-Restaurant/blob/main/src/assets/screenshot/gallery.png) <br /><br /><br /><br /><br />
+![footer](https://github.com/sgc93/NoshTag-Restaurant/blob/main/src/assets/screenshot/footer.png) <br /><br /><br /> <br /><br /><br /><br /><br />
 
 ## Getting Started with Create React App
 
