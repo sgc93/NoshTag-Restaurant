@@ -106,8 +106,7 @@
 	margin-top: 5px;
 	display: flex;
 	align-items: center;
-	justify-content: center;
-	gap: 20px;
+	justify-content: space-between;
 }
 
 @media screen and (min-width: 2000px) {
