@@ -6,6 +6,7 @@ The key to fine `NOSH`.
 a contemporary restourant menu and landing page - built with react.
 
 ## Demo
+https://noshtag.netlify.app  <br /><br />
 
 ## Screenshots
 ![homepage](https://github.com/sgc93/NoshTag-Restaurant/blob/main/src/assets/screenshot/homepage.png)  <br /><br /><br /><br /><br />
